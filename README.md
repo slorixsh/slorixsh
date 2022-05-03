@@ -5,16 +5,16 @@
 -->
 
 ```css
-[connorslorien@archlinux ~]$ neofetch
+[slorixsh@archlinux ~]$ neofetch
 
-                    -@                    connorslorien@archlinux
+                    -@                    slorixsh@archlinux
                    .##@                   -----------------
-                  .####@                  Username: connorslorien
+                  .####@                  Username: slorixsh
                   @#####@                 Alias: Slori, Slorix
                 . *######@                Discord: https://discord.gg/BTdFXbZ9t7
                .##@o@#####@               Website: https://slorixsh.live
               /############@            
-             /##############@             connorslorien@archlinux
+             /##############@             slorixsh@archlinux
             @######@**%######@            -----------------
            @######`     %#####o           Javascript: 7/10
           @######@       ######%          HTML: 9/1O

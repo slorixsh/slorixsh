@@ -21,7 +21,7 @@
         -@#######h       ######@.`        CSS: 8/10
        /#####h**``       `**%@####@       Flutter: 5/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 14yo Freelance and self-taught developer, Owner of discord.gg/elsiyum
+     *`                            `*     Infos: 14yo Osu Player and self-taught developer, Owner of discord.gg/elsiyum
 
 ```
 

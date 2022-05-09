@@ -13,14 +13,14 @@
                   @#####@                 Alias: Slori, Slorix
                 . *######@                Discord: https://discord.gg/BTdFXbZ9t7
                .##@o@#####@               Website: https://slorixsh.live
-              /############@            
-             /##############@             slorixsh@archlinux
+              /############@              Location: Izmir/Turkey
+             /##############@             
             @######@**%######@            -----------------
            @######`     %#####o           Javascript: 7/10
           @######@       ######%          HTML: 9/1O
         -@#######h       ######@.`        CSS: 8/10
        /#####h**``       `**%@####@       Flutter: 5/10
-      @H@*`                    `*%#@    
+      @H@*`                    `*%#@      
      *`                            `*     Infos: 14yo Osu Player and self-taught developer, Owner of discord.gg/elsiyum
 
 ```

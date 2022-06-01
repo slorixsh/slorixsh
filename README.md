@@ -26,7 +26,7 @@
 ```
 
 <p align="center">
-	<img src="https://api.ravencode.live/v1/users/831499138410610750/embed?theme=dark&width=400">
+           <img src="https://api.ravencode.live/v1/users/831499138410610750/embed?width=600&height=350">
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=slorixsh&theme=dark&hide_border=true">
 	<br>

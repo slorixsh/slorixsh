@@ -26,7 +26,7 @@
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/831499138410610750?hideTimestamp=true&idleMessage=Eat,%20Osu,%20Sleep,%20Repeat&hideBadges=false"/>
+	<img src="https://api.ravencode.live/v1/users/831499138410610750/embed?theme=dark&width=400">
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=slorixsh&theme=dark&hide_border=true">
 	<br>

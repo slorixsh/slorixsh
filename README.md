@@ -11,7 +11,7 @@
                    .##@                   -----------------
                   .####@                  Username: slorixsh
                   @#####@                 Alias: Slori, Slorix
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
+                . *######@                Discord: slorixsh#1733
                .##@o@#####@               Website: https://slorixsh.live
               /############@              Location: Izmir/Turkey
              /##############@             
@@ -24,8 +24,4 @@
      *`                            `*     Infos: 14yo Osu Player and self-taught developer, Owner of discord.gg/elsiyum
 
 ```
-# 🌸 My recent AniList activity
 
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
